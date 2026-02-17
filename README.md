@@ -2,4 +2,9 @@
 python based chatbot that remembers previously asked questions
 
 Demo -> 
-[![Demo]](https://github.com/prem30488/RAGChatbot/blob/main/assets/RAG%20based%20chatbot.mp4)
+
+
+
+https://github.com/user-attachments/assets/b7be05c3-95b8-4e24-9404-6a5c808db3f4
+
+
